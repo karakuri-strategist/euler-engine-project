@@ -1,0 +1,16 @@
+# Pipenv virtual environment
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables (if used)
+.env
+
+# Cache directories
+__pycache__/
+.pytest_cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
