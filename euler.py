@@ -1,3 +1,6 @@
+from functools import reduce
+
+
 # takes an equation, a method, a set of initial values
 # the step value, and the duration, then runs that method
 # against the equation at that step value until the duration is reached.
