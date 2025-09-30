@@ -5,8 +5,9 @@ name = "pypi"
 
 [packages]
 simpleeval = "*"
-jupyter = "*"
 matplotlib = "*"
+ipykernel = "*"
+jupyter = "*"
 
 [dev-packages]
 
